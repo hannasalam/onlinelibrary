@@ -87,7 +87,7 @@ $(document).ready(function() {
             </div>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt est vitae ultrices accumsan. Aliquam ornare lacus adipiscing, posuere.<br></p>
             </div>
-          <div class="panel-footer"> <a href="" class="btn btn-link">Add to Wishlist</a> </div>
+          <div class="panel-footer"> <a href="${viewUrl}" class="btn btn-link"> Get E-Book </div>
         </div>
       </div>
       </a>`
