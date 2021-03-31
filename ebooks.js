@@ -82,7 +82,7 @@ $(document).ready(function() {
         <div class="panel panel-default userlist">
           <div class="panel-body text-center">
             <div class="userprofile">
-              <div class="userpic"> <img src="${bookImg}" alt="" class="userpicimg"> </div>
+              <div class="userpic"> <img src="${bookImg}" alt="Sorry Image not available" class="userpicimg"> </div>
               <h3 class="username">${title}</h3>
             </div>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt est vitae ultrices accumsan. Aliquam ornare lacus adipiscing, posuere.<br></p>
